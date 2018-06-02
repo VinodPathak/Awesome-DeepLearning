@@ -23,3 +23,9 @@ Generative Adversarial Networks\
 
 Tensorflow\
 -https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/
+
+
+Object Detection\
+-https://softwaremill.com/counting-objects-with-faster-rcnn/
+-http://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
+-https://towardsdatascience.com/training-object-detection-yolov2-from-scratch-using-cyclic-learning-rates-b3364f7e4755
