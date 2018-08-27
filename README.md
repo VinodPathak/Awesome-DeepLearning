@@ -43,3 +43,7 @@ Object Detection\
 Best Practices  
 -http://ruder.io/deep-learning-nlp-best-practices/  
 -
+
+Practical Deep Learning  
+>> https://www.dlology.com/blog/  
+
