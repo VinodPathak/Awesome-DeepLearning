@@ -25,7 +25,6 @@ Long Short Term Memory
 -https://isaacchanghau.github.io/post/stock_price_predict/  
 -https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d  
 -https://www.reddit.com/r/MachineLearning/comments/5ogbd5/d_training_lstms_in_practice_tips_and_tricks/  
--
 
 Generative Adversarial Networks\
 -https://medium.com/paperspace/building-a-simple-generative-adversarial-network-gan-using-tensorflow-349626a18d99
@@ -42,8 +41,9 @@ Object Detection\
 
 Best Practices  
 -http://ruder.io/deep-learning-nlp-best-practices/  
--
 
 Practical Deep Learning  
 >> https://www.dlology.com/blog/  
 
+Facial Expression Recognition  
+>> https://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
