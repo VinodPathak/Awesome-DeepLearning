@@ -51,3 +51,5 @@ Practical Deep Learning
 Facial Expression Recognition  
 >> https://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
 >> https://medium.com/deep-learning-turkey/deep-learning-lab-episode-3-fer2013-c38f2e052280  
+
+* https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69  
