@@ -53,3 +53,5 @@ Facial Expression Recognition
 >> https://medium.com/deep-learning-turkey/deep-learning-lab-episode-3-fer2013-c38f2e052280  
 
 * https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69  
+
+* https://hackernoon.com/top-differences-between-artificial-intelligence-machine-learning-deep-learning-d39cb6f6feaa  
