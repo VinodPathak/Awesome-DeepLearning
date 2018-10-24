@@ -58,3 +58,5 @@ Facial Expression Recognition
 * https://hackernoon.com/top-differences-between-artificial-intelligence-machine-learning-deep-learning-d39cb6f6feaa  
 
 * http://deeplearninggallery.com/  
+
+* https://pages.databricks.com/rs/094-YMS-629/images/Keras%20MNIST%20CNN.html  
