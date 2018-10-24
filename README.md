@@ -60,3 +60,4 @@ Facial Expression Recognition
 * http://deeplearninggallery.com/  
 
 * https://pages.databricks.com/rs/094-YMS-629/images/Keras%20MNIST%20CNN.html  
+* https://www.kaggle.com/learn/deep-learning  
