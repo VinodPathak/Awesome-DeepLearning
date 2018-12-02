@@ -2,6 +2,7 @@
 Links to Deep Learning Blogs  
 
 ##### Disciplined approach to neural net hyperparameters  
+##### https://arxiv.org/pdf/1803.09820.pdf  
 
 https://skymind.ai/wiki/  
 
