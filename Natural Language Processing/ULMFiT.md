@@ -3,3 +3,4 @@
 
 * http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html  
 * https://yashuseth.blog/2018/06/17/understanding-universal-language-model-fine-tuning-ulmfit/  
+* https://arxiv.org/pdf/1801.06146.pdf  
