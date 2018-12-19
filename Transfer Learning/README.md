@@ -8,4 +8,5 @@
 * https://www.kaggle.com/dansbecker/transfer-learning  
 * https://towardsdatascience.com/transfer-learning-946518f95666  
 * https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557  
+* https://blogs.technet.microsoft.com/machinelearning/2018/04/25/transfer-learning-for-text-using-deep-learning-virtual-machine-dlvm/  
 * 
