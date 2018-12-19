@@ -6,3 +6,4 @@ https://github.com/bharathgs/Awesome-pytorch-list
 https://github.com/L1aoXingyu/pytorch-beginner  
 https://github.com/hunkim/PyTorchZeroToAll  
 https://pytorch.org/tutorials/  
+https://github.com/parlstrand/ml_playground/tree/master/computer_vision/object_detection  
