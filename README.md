@@ -1,6 +1,9 @@
 # Awesome-DeepLearning  
 Links to Deep Learning Blogs  
 
+##### VisualDL  
+> https://github.com/PaddlePaddle/VisualDL  
+
 ##### Disciplined approach to neural net hyperparameters  
 ##### https://arxiv.org/pdf/1803.09820.pdf  
 
